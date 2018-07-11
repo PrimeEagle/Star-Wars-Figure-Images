@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWarsFigureImages", "StarWarsFigureImages.csproj", "{3F4213CB-F459-4F18-A16B-AC6FAB1E0818}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3F4213CB-F459-4F18-A16B-AC6FAB1E0818}.Debug.ActiveCfg = Debug|.NET
+		{3F4213CB-F459-4F18-A16B-AC6FAB1E0818}.Debug.Build.0 = Debug|.NET
+		{3F4213CB-F459-4F18-A16B-AC6FAB1E0818}.Release.ActiveCfg = Release|.NET
+		{3F4213CB-F459-4F18-A16B-AC6FAB1E0818}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
